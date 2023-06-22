@@ -17,6 +17,8 @@
 <br />
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![VueJS](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vuedotjs)&nbsp;
 ![Nuxt](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxtdotjs)&nbsp;
@@ -26,6 +28,14 @@
 ![StyledComponents](https://img.shields.io/badge/-Styled_Components-05122A?style=flat&logo=styledcomponents)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+
+<br>
+
+<p align="left">
+<img width="450em" src="https://github-readme-stats.vercel.app/api?username=werlesson&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=werlesson&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
 <!--
 
 <br><br>
@@ -54,7 +64,7 @@
 </p>
 -->
 
-<br><br>
+<br>
 
 ## Contact
 
