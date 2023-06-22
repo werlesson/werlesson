@@ -14,8 +14,18 @@
 
 <!-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev) -->
 
+<br />
 
-Javascript | ReactJS | VueJS | NuxtJS | NextJS | React-native | Sass | Styled-Components
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![ReactJS](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![VueJS](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vuedotjs)&nbsp;
+![Nuxt](https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxtdotjs)&nbsp;
+![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=nextdotjs)&nbsp;
+![ReactNative](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
+![StyledComponents](https://img.shields.io/badge/-Styled_Components-05122A?style=flat&logo=styledcomponents)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 <!--
 
 <br><br>
